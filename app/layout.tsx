@@ -7,7 +7,7 @@ import RenderPages from "@/components/renderPages";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Blabstr",
+  title: "CampusBuzz",
   description: "The social media",
 };
 
